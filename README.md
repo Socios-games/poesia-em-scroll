@@ -17,6 +17,11 @@ Um feed infinito de poemas em português, um poema por tela. Veja a especificaç
    ```
 4. Abra no navegador o endereço `Local:` que aparecer (normalmente `http://localhost:5173`).
 
+### Problemas comuns no Windows
+
+- **`could not create work tree dir ... Permission denied`**: o PowerShell está dentro de `C:\WINDOWS\system32`, onde não dá para criar pastas. Antes do `git clone`, rode `cd $HOME` para ir para a sua pasta de usuário.
+- **`npm.ps1 não pode ser carregado porque a execução de scripts foi desabilitada`**: rode uma única vez `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` e responda `S`. Isso libera scripts só para o seu usuário.
+
 ## Abrir no celular pela rede local
 
 1. O celular precisa estar no **mesmo Wi-Fi** que o computador.

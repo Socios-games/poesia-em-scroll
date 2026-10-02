@@ -1,0 +1,1195 @@
+[
+  {
+    "id": "luis-de-camoes-amor-e-fogo-que-arde-sem-se-ver",
+    "titulo": "Amor é fogo que arde sem se ver",
+    "autor": "Luís de Camões",
+    "anoMorteAutor": 1580,
+    "ano": 1595,
+    "estrofes": [
+      [
+        "[Amor é fogo que arde sem se ver — estrofe 1, verso 1]",
+        "[Amor é fogo que arde sem se ver — estrofe 1, verso 2]",
+        "[Amor é fogo que arde sem se ver — estrofe 1, verso 3]",
+        "[Amor é fogo que arde sem se ver — estrofe 1, verso 4]"
+      ],
+      [
+        "[Amor é fogo que arde sem se ver — estrofe 2, verso 1]",
+        "[Amor é fogo que arde sem se ver — estrofe 2, verso 2]",
+        "[Amor é fogo que arde sem se ver — estrofe 2, verso 3]",
+        "[Amor é fogo que arde sem se ver — estrofe 2, verso 4]"
+      ],
+      [
+        "[Amor é fogo que arde sem se ver — estrofe 3, verso 1]",
+        "[Amor é fogo que arde sem se ver — estrofe 3, verso 2]",
+        "[Amor é fogo que arde sem se ver — estrofe 3, verso 3]"
+      ],
+      [
+        "[Amor é fogo que arde sem se ver — estrofe 4, verso 1]",
+        "[Amor é fogo que arde sem se ver — estrofe 4, verso 2]",
+        "[Amor é fogo que arde sem se ver — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "amor"
+    ],
+    "temas": [
+      "paradoxo",
+      "paixão"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "luis-de-camoes-alma-minha-gentil-que-te-partiste",
+    "titulo": "Alma minha gentil, que te partiste",
+    "autor": "Luís de Camões",
+    "anoMorteAutor": 1580,
+    "ano": 1595,
+    "estrofes": [
+      [
+        "[Alma minha gentil, que te partiste — estrofe 1, verso 1]",
+        "[Alma minha gentil, que te partiste — estrofe 1, verso 2]",
+        "[Alma minha gentil, que te partiste — estrofe 1, verso 3]",
+        "[Alma minha gentil, que te partiste — estrofe 1, verso 4]"
+      ],
+      [
+        "[Alma minha gentil, que te partiste — estrofe 2, verso 1]",
+        "[Alma minha gentil, que te partiste — estrofe 2, verso 2]",
+        "[Alma minha gentil, que te partiste — estrofe 2, verso 3]",
+        "[Alma minha gentil, que te partiste — estrofe 2, verso 4]"
+      ],
+      [
+        "[Alma minha gentil, que te partiste — estrofe 3, verso 1]",
+        "[Alma minha gentil, que te partiste — estrofe 3, verso 2]",
+        "[Alma minha gentil, que te partiste — estrofe 3, verso 3]"
+      ],
+      [
+        "[Alma minha gentil, que te partiste — estrofe 4, verso 1]",
+        "[Alma minha gentil, que te partiste — estrofe 4, verso 2]",
+        "[Alma minha gentil, que te partiste — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "saudade",
+      "morte e finitude"
+    ],
+    "temas": [
+      "luto",
+      "amor perdido"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "gregorio-de-matos-triste-bahia",
+    "titulo": "Triste Bahia",
+    "autor": "Gregório de Matos",
+    "anoMorteAutor": 1696,
+    "ano": null,
+    "estrofes": [
+      [
+        "[Triste Bahia — estrofe 1, verso 1]",
+        "[Triste Bahia — estrofe 1, verso 2]",
+        "[Triste Bahia — estrofe 1, verso 3]",
+        "[Triste Bahia — estrofe 1, verso 4]"
+      ],
+      [
+        "[Triste Bahia — estrofe 2, verso 1]",
+        "[Triste Bahia — estrofe 2, verso 2]",
+        "[Triste Bahia — estrofe 2, verso 3]",
+        "[Triste Bahia — estrofe 2, verso 4]"
+      ],
+      [
+        "[Triste Bahia — estrofe 3, verso 1]",
+        "[Triste Bahia — estrofe 3, verso 2]",
+        "[Triste Bahia — estrofe 3, verso 3]"
+      ],
+      [
+        "[Triste Bahia — estrofe 4, verso 1]",
+        "[Triste Bahia — estrofe 4, verso 2]",
+        "[Triste Bahia — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "ironia",
+      "melancolia"
+    ],
+    "temas": [
+      "cidade",
+      "decadência"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "alvares-de-azevedo-se-eu-morresse-amanha",
+    "titulo": "Se eu morresse amanhã",
+    "autor": "Álvares de Azevedo",
+    "anoMorteAutor": 1852,
+    "ano": 1853,
+    "estrofes": [
+      [
+        "[Se eu morresse amanhã — estrofe 1, verso 1]",
+        "[Se eu morresse amanhã — estrofe 1, verso 2]",
+        "[Se eu morresse amanhã — estrofe 1, verso 3]",
+        "[Se eu morresse amanhã — estrofe 1, verso 4]"
+      ],
+      [
+        "[Se eu morresse amanhã — estrofe 2, verso 1]",
+        "[Se eu morresse amanhã — estrofe 2, verso 2]",
+        "[Se eu morresse amanhã — estrofe 2, verso 3]",
+        "[Se eu morresse amanhã — estrofe 2, verso 4]"
+      ],
+      [
+        "[Se eu morresse amanhã — estrofe 3, verso 1]",
+        "[Se eu morresse amanhã — estrofe 3, verso 2]",
+        "[Se eu morresse amanhã — estrofe 3, verso 3]",
+        "[Se eu morresse amanhã — estrofe 3, verso 4]"
+      ],
+      [
+        "[Se eu morresse amanhã — estrofe 4, verso 1]",
+        "[Se eu morresse amanhã — estrofe 4, verso 2]",
+        "[Se eu morresse amanhã — estrofe 4, verso 3]",
+        "[Se eu morresse amanhã — estrofe 4, verso 4]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "morte e finitude",
+      "melancolia"
+    ],
+    "temas": [
+      "juventude",
+      "despedida"
+    ],
+    "tamanho": "medio",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "goncalves-dias-cancao-do-exilio",
+    "titulo": "Canção do exílio",
+    "autor": "Gonçalves Dias",
+    "anoMorteAutor": 1864,
+    "ano": 1847,
+    "estrofes": [
+      [
+        "[Canção do exílio — estrofe 1, verso 1]",
+        "[Canção do exílio — estrofe 1, verso 2]",
+        "[Canção do exílio — estrofe 1, verso 3]",
+        "[Canção do exílio — estrofe 1, verso 4]"
+      ],
+      [
+        "[Canção do exílio — estrofe 2, verso 1]",
+        "[Canção do exílio — estrofe 2, verso 2]",
+        "[Canção do exílio — estrofe 2, verso 3]",
+        "[Canção do exílio — estrofe 2, verso 4]"
+      ],
+      [
+        "[Canção do exílio — estrofe 3, verso 1]",
+        "[Canção do exílio — estrofe 3, verso 2]",
+        "[Canção do exílio — estrofe 3, verso 3]",
+        "[Canção do exílio — estrofe 3, verso 4]",
+        "[Canção do exílio — estrofe 3, verso 5]",
+        "[Canção do exílio — estrofe 3, verso 6]"
+      ],
+      [
+        "[Canção do exílio — estrofe 4, verso 1]",
+        "[Canção do exílio — estrofe 4, verso 2]",
+        "[Canção do exílio — estrofe 4, verso 3]",
+        "[Canção do exílio — estrofe 4, verso 4]",
+        "[Canção do exílio — estrofe 4, verso 5]",
+        "[Canção do exílio — estrofe 4, verso 6]"
+      ],
+      [
+        "[Canção do exílio — estrofe 5, verso 1]",
+        "[Canção do exílio — estrofe 5, verso 2]",
+        "[Canção do exílio — estrofe 5, verso 3]",
+        "[Canção do exílio — estrofe 5, verso 4]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "saudade",
+      "natureza"
+    ],
+    "temas": [
+      "pátria",
+      "exílio"
+    ],
+    "tamanho": "medio",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "castro-alves-o-navio-negreiro",
+    "titulo": "O navio negreiro",
+    "autor": "Castro Alves",
+    "anoMorteAutor": 1871,
+    "ano": 1883,
+    "estrofes": [
+      [
+        "[O navio negreiro — estrofe 1, verso 1]",
+        "[O navio negreiro — estrofe 1, verso 2]",
+        "[O navio negreiro — estrofe 1, verso 3]",
+        "[O navio negreiro — estrofe 1, verso 4]",
+        "[O navio negreiro — estrofe 1, verso 5]",
+        "[O navio negreiro — estrofe 1, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 2, verso 1]",
+        "[O navio negreiro — estrofe 2, verso 2]",
+        "[O navio negreiro — estrofe 2, verso 3]",
+        "[O navio negreiro — estrofe 2, verso 4]",
+        "[O navio negreiro — estrofe 2, verso 5]",
+        "[O navio negreiro — estrofe 2, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 3, verso 1]",
+        "[O navio negreiro — estrofe 3, verso 2]",
+        "[O navio negreiro — estrofe 3, verso 3]",
+        "[O navio negreiro — estrofe 3, verso 4]",
+        "[O navio negreiro — estrofe 3, verso 5]",
+        "[O navio negreiro — estrofe 3, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 4, verso 1]",
+        "[O navio negreiro — estrofe 4, verso 2]",
+        "[O navio negreiro — estrofe 4, verso 3]",
+        "[O navio negreiro — estrofe 4, verso 4]",
+        "[O navio negreiro — estrofe 4, verso 5]",
+        "[O navio negreiro — estrofe 4, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 5, verso 1]",
+        "[O navio negreiro — estrofe 5, verso 2]",
+        "[O navio negreiro — estrofe 5, verso 3]",
+        "[O navio negreiro — estrofe 5, verso 4]",
+        "[O navio negreiro — estrofe 5, verso 5]",
+        "[O navio negreiro — estrofe 5, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 6, verso 1]",
+        "[O navio negreiro — estrofe 6, verso 2]",
+        "[O navio negreiro — estrofe 6, verso 3]",
+        "[O navio negreiro — estrofe 6, verso 4]",
+        "[O navio negreiro — estrofe 6, verso 5]",
+        "[O navio negreiro — estrofe 6, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 7, verso 1]",
+        "[O navio negreiro — estrofe 7, verso 2]",
+        "[O navio negreiro — estrofe 7, verso 3]",
+        "[O navio negreiro — estrofe 7, verso 4]",
+        "[O navio negreiro — estrofe 7, verso 5]",
+        "[O navio negreiro — estrofe 7, verso 6]"
+      ],
+      [
+        "[O navio negreiro — estrofe 8, verso 1]",
+        "[O navio negreiro — estrofe 8, verso 2]",
+        "[O navio negreiro — estrofe 8, verso 3]",
+        "[O navio negreiro — estrofe 8, verso 4]",
+        "[O navio negreiro — estrofe 8, verso 5]",
+        "[O navio negreiro — estrofe 8, verso 6]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 4,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "inquietação"
+    ],
+    "temas": [
+      "escravidão",
+      "justiça"
+    ],
+    "tamanho": "longo",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "cesario-verde-o-sentimento-dum-ocidental",
+    "titulo": "O sentimento dum ocidental",
+    "autor": "Cesário Verde",
+    "anoMorteAutor": 1886,
+    "ano": 1880,
+    "estrofes": [
+      [
+        "[O sentimento dum ocidental — estrofe 1, verso 1]",
+        "[O sentimento dum ocidental — estrofe 1, verso 2]",
+        "[O sentimento dum ocidental — estrofe 1, verso 3]",
+        "[O sentimento dum ocidental — estrofe 1, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 2, verso 1]",
+        "[O sentimento dum ocidental — estrofe 2, verso 2]",
+        "[O sentimento dum ocidental — estrofe 2, verso 3]",
+        "[O sentimento dum ocidental — estrofe 2, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 3, verso 1]",
+        "[O sentimento dum ocidental — estrofe 3, verso 2]",
+        "[O sentimento dum ocidental — estrofe 3, verso 3]",
+        "[O sentimento dum ocidental — estrofe 3, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 4, verso 1]",
+        "[O sentimento dum ocidental — estrofe 4, verso 2]",
+        "[O sentimento dum ocidental — estrofe 4, verso 3]",
+        "[O sentimento dum ocidental — estrofe 4, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 5, verso 1]",
+        "[O sentimento dum ocidental — estrofe 5, verso 2]",
+        "[O sentimento dum ocidental — estrofe 5, verso 3]",
+        "[O sentimento dum ocidental — estrofe 5, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 6, verso 1]",
+        "[O sentimento dum ocidental — estrofe 6, verso 2]",
+        "[O sentimento dum ocidental — estrofe 6, verso 3]",
+        "[O sentimento dum ocidental — estrofe 6, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 7, verso 1]",
+        "[O sentimento dum ocidental — estrofe 7, verso 2]",
+        "[O sentimento dum ocidental — estrofe 7, verso 3]",
+        "[O sentimento dum ocidental — estrofe 7, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 8, verso 1]",
+        "[O sentimento dum ocidental — estrofe 8, verso 2]",
+        "[O sentimento dum ocidental — estrofe 8, verso 3]",
+        "[O sentimento dum ocidental — estrofe 8, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 9, verso 1]",
+        "[O sentimento dum ocidental — estrofe 9, verso 2]",
+        "[O sentimento dum ocidental — estrofe 9, verso 3]",
+        "[O sentimento dum ocidental — estrofe 9, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 10, verso 1]",
+        "[O sentimento dum ocidental — estrofe 10, verso 2]",
+        "[O sentimento dum ocidental — estrofe 10, verso 3]",
+        "[O sentimento dum ocidental — estrofe 10, verso 4]"
+      ],
+      [
+        "[O sentimento dum ocidental — estrofe 11, verso 1]",
+        "[O sentimento dum ocidental — estrofe 11, verso 2]",
+        "[O sentimento dum ocidental — estrofe 11, verso 3]",
+        "[O sentimento dum ocidental — estrofe 11, verso 4]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "inquietação",
+      "melancolia"
+    ],
+    "temas": [
+      "cidade",
+      "noite"
+    ],
+    "tamanho": "longo",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "cruz-e-sousa-violoes-que-choram",
+    "titulo": "Violões que choram",
+    "autor": "Cruz e Sousa",
+    "anoMorteAutor": 1898,
+    "ano": 1900,
+    "estrofes": [
+      [
+        "[Violões que choram — estrofe 1, verso 1]",
+        "[Violões que choram — estrofe 1, verso 2]",
+        "[Violões que choram — estrofe 1, verso 3]",
+        "[Violões que choram — estrofe 1, verso 4]",
+        "[Violões que choram — estrofe 1, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 2, verso 1]",
+        "[Violões que choram — estrofe 2, verso 2]",
+        "[Violões que choram — estrofe 2, verso 3]",
+        "[Violões que choram — estrofe 2, verso 4]",
+        "[Violões que choram — estrofe 2, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 3, verso 1]",
+        "[Violões que choram — estrofe 3, verso 2]",
+        "[Violões que choram — estrofe 3, verso 3]",
+        "[Violões que choram — estrofe 3, verso 4]",
+        "[Violões que choram — estrofe 3, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 4, verso 1]",
+        "[Violões que choram — estrofe 4, verso 2]",
+        "[Violões que choram — estrofe 4, verso 3]",
+        "[Violões que choram — estrofe 4, verso 4]",
+        "[Violões que choram — estrofe 4, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 5, verso 1]",
+        "[Violões que choram — estrofe 5, verso 2]",
+        "[Violões que choram — estrofe 5, verso 3]",
+        "[Violões que choram — estrofe 5, verso 4]",
+        "[Violões que choram — estrofe 5, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 6, verso 1]",
+        "[Violões que choram — estrofe 6, verso 2]",
+        "[Violões que choram — estrofe 6, verso 3]",
+        "[Violões que choram — estrofe 6, verso 4]",
+        "[Violões que choram — estrofe 6, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 7, verso 1]",
+        "[Violões que choram — estrofe 7, verso 2]",
+        "[Violões que choram — estrofe 7, verso 3]",
+        "[Violões que choram — estrofe 7, verso 4]",
+        "[Violões que choram — estrofe 7, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 8, verso 1]",
+        "[Violões que choram — estrofe 8, verso 2]",
+        "[Violões que choram — estrofe 8, verso 3]",
+        "[Violões que choram — estrofe 8, verso 4]",
+        "[Violões que choram — estrofe 8, verso 5]"
+      ],
+      [
+        "[Violões que choram — estrofe 9, verso 1]",
+        "[Violões que choram — estrofe 9, verso 2]",
+        "[Violões que choram — estrofe 9, verso 3]",
+        "[Violões que choram — estrofe 9, verso 4]",
+        "[Violões que choram — estrofe 9, verso 5]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "melancolia"
+    ],
+    "temas": [
+      "música",
+      "dor"
+    ],
+    "tamanho": "longo",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "machado-de-assis-a-carolina",
+    "titulo": "A Carolina",
+    "autor": "Machado de Assis",
+    "anoMorteAutor": 1908,
+    "ano": 1906,
+    "estrofes": [
+      [
+        "[A Carolina — estrofe 1, verso 1]",
+        "[A Carolina — estrofe 1, verso 2]",
+        "[A Carolina — estrofe 1, verso 3]",
+        "[A Carolina — estrofe 1, verso 4]"
+      ],
+      [
+        "[A Carolina — estrofe 2, verso 1]",
+        "[A Carolina — estrofe 2, verso 2]",
+        "[A Carolina — estrofe 2, verso 3]",
+        "[A Carolina — estrofe 2, verso 4]"
+      ],
+      [
+        "[A Carolina — estrofe 3, verso 1]",
+        "[A Carolina — estrofe 3, verso 2]",
+        "[A Carolina — estrofe 3, verso 3]"
+      ],
+      [
+        "[A Carolina — estrofe 4, verso 1]",
+        "[A Carolina — estrofe 4, verso 2]",
+        "[A Carolina — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "saudade",
+      "amor"
+    ],
+    "temas": [
+      "luto",
+      "casamento"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "augusto-dos-anjos-versos-intimos",
+    "titulo": "Versos íntimos",
+    "autor": "Augusto dos Anjos",
+    "anoMorteAutor": 1914,
+    "ano": 1912,
+    "estrofes": [
+      [
+        "[Versos íntimos — estrofe 1, verso 1]",
+        "[Versos íntimos — estrofe 1, verso 2]",
+        "[Versos íntimos — estrofe 1, verso 3]",
+        "[Versos íntimos — estrofe 1, verso 4]"
+      ],
+      [
+        "[Versos íntimos — estrofe 2, verso 1]",
+        "[Versos íntimos — estrofe 2, verso 2]",
+        "[Versos íntimos — estrofe 2, verso 3]",
+        "[Versos íntimos — estrofe 2, verso 4]"
+      ],
+      [
+        "[Versos íntimos — estrofe 3, verso 1]",
+        "[Versos íntimos — estrofe 3, verso 2]",
+        "[Versos íntimos — estrofe 3, verso 3]"
+      ],
+      [
+        "[Versos íntimos — estrofe 4, verso 1]",
+        "[Versos íntimos — estrofe 4, verso 2]",
+        "[Versos íntimos — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "melancolia",
+      "ironia"
+    ],
+    "temas": [
+      "solidão",
+      "ingratidão"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "augusto-dos-anjos-psicologia-de-um-vencido",
+    "titulo": "Psicologia de um vencido",
+    "autor": "Augusto dos Anjos",
+    "anoMorteAutor": 1914,
+    "ano": 1912,
+    "estrofes": [
+      [
+        "[Psicologia de um vencido — estrofe 1, verso 1]",
+        "[Psicologia de um vencido — estrofe 1, verso 2]",
+        "[Psicologia de um vencido — estrofe 1, verso 3]",
+        "[Psicologia de um vencido — estrofe 1, verso 4]"
+      ],
+      [
+        "[Psicologia de um vencido — estrofe 2, verso 1]",
+        "[Psicologia de um vencido — estrofe 2, verso 2]",
+        "[Psicologia de um vencido — estrofe 2, verso 3]",
+        "[Psicologia de um vencido — estrofe 2, verso 4]"
+      ],
+      [
+        "[Psicologia de um vencido — estrofe 3, verso 1]",
+        "[Psicologia de um vencido — estrofe 3, verso 2]",
+        "[Psicologia de um vencido — estrofe 3, verso 3]"
+      ],
+      [
+        "[Psicologia de um vencido — estrofe 4, verso 1]",
+        "[Psicologia de um vencido — estrofe 4, verso 2]",
+        "[Psicologia de um vencido — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "morte e finitude"
+    ],
+    "temas": [
+      "corpo",
+      "decomposição"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "olavo-bilac-ouvir-estrelas",
+    "titulo": "Ouvir estrelas",
+    "autor": "Olavo Bilac",
+    "anoMorteAutor": 1918,
+    "ano": 1888,
+    "estrofes": [
+      [
+        "[Ouvir estrelas — estrofe 1, verso 1]",
+        "[Ouvir estrelas — estrofe 1, verso 2]",
+        "[Ouvir estrelas — estrofe 1, verso 3]",
+        "[Ouvir estrelas — estrofe 1, verso 4]"
+      ],
+      [
+        "[Ouvir estrelas — estrofe 2, verso 1]",
+        "[Ouvir estrelas — estrofe 2, verso 2]",
+        "[Ouvir estrelas — estrofe 2, verso 3]",
+        "[Ouvir estrelas — estrofe 2, verso 4]"
+      ],
+      [
+        "[Ouvir estrelas — estrofe 3, verso 1]",
+        "[Ouvir estrelas — estrofe 3, verso 2]",
+        "[Ouvir estrelas — estrofe 3, verso 3]"
+      ],
+      [
+        "[Ouvir estrelas — estrofe 4, verso 1]",
+        "[Ouvir estrelas — estrofe 4, verso 2]",
+        "[Ouvir estrelas — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "amor"
+    ],
+    "temas": [
+      "noite",
+      "estrelas"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "olavo-bilac-lingua-portuguesa",
+    "titulo": "Língua portuguesa",
+    "autor": "Olavo Bilac",
+    "anoMorteAutor": 1918,
+    "ano": 1919,
+    "estrofes": [
+      [
+        "[Língua portuguesa — estrofe 1, verso 1]",
+        "[Língua portuguesa — estrofe 1, verso 2]",
+        "[Língua portuguesa — estrofe 1, verso 3]",
+        "[Língua portuguesa — estrofe 1, verso 4]"
+      ],
+      [
+        "[Língua portuguesa — estrofe 2, verso 1]",
+        "[Língua portuguesa — estrofe 2, verso 2]",
+        "[Língua portuguesa — estrofe 2, verso 3]",
+        "[Língua portuguesa — estrofe 2, verso 4]"
+      ],
+      [
+        "[Língua portuguesa — estrofe 3, verso 1]",
+        "[Língua portuguesa — estrofe 3, verso 2]",
+        "[Língua portuguesa — estrofe 3, verso 3]"
+      ],
+      [
+        "[Língua portuguesa — estrofe 4, verso 1]",
+        "[Língua portuguesa — estrofe 4, verso 2]",
+        "[Língua portuguesa — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "saudade"
+    ],
+    "temas": [
+      "língua",
+      "origem"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "florbela-espanca-fanatismo",
+    "titulo": "Fanatismo",
+    "autor": "Florbela Espanca",
+    "anoMorteAutor": 1930,
+    "ano": 1923,
+    "estrofes": [
+      [
+        "[Fanatismo — estrofe 1, verso 1]",
+        "[Fanatismo — estrofe 1, verso 2]",
+        "[Fanatismo — estrofe 1, verso 3]",
+        "[Fanatismo — estrofe 1, verso 4]"
+      ],
+      [
+        "[Fanatismo — estrofe 2, verso 1]",
+        "[Fanatismo — estrofe 2, verso 2]",
+        "[Fanatismo — estrofe 2, verso 3]",
+        "[Fanatismo — estrofe 2, verso 4]"
+      ],
+      [
+        "[Fanatismo — estrofe 3, verso 1]",
+        "[Fanatismo — estrofe 3, verso 2]",
+        "[Fanatismo — estrofe 3, verso 3]"
+      ],
+      [
+        "[Fanatismo — estrofe 4, verso 1]",
+        "[Fanatismo — estrofe 4, verso 2]",
+        "[Fanatismo — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "amor"
+    ],
+    "temas": [
+      "devoção",
+      "paixão"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "florbela-espanca-ser-poeta",
+    "titulo": "Ser poeta",
+    "autor": "Florbela Espanca",
+    "anoMorteAutor": 1930,
+    "ano": 1931,
+    "estrofes": [
+      [
+        "[Ser poeta — estrofe 1, verso 1]",
+        "[Ser poeta — estrofe 1, verso 2]",
+        "[Ser poeta — estrofe 1, verso 3]",
+        "[Ser poeta — estrofe 1, verso 4]"
+      ],
+      [
+        "[Ser poeta — estrofe 2, verso 1]",
+        "[Ser poeta — estrofe 2, verso 2]",
+        "[Ser poeta — estrofe 2, verso 3]",
+        "[Ser poeta — estrofe 2, verso 4]"
+      ],
+      [
+        "[Ser poeta — estrofe 3, verso 1]",
+        "[Ser poeta — estrofe 3, verso 2]",
+        "[Ser poeta — estrofe 3, verso 3]"
+      ],
+      [
+        "[Ser poeta — estrofe 4, verso 1]",
+        "[Ser poeta — estrofe 4, verso 2]",
+        "[Ser poeta — estrofe 4, verso 3]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "inquietação",
+      "amor"
+    ],
+    "temas": [
+      "poesia",
+      "grandeza"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "fernando-pessoa-autopsicografia",
+    "titulo": "Autopsicografia",
+    "autor": "Fernando Pessoa",
+    "anoMorteAutor": 1935,
+    "ano": 1932,
+    "estrofes": [
+      [
+        "[Autopsicografia — estrofe 1, verso 1]",
+        "[Autopsicografia — estrofe 1, verso 2]",
+        "[Autopsicografia — estrofe 1, verso 3]",
+        "[Autopsicografia — estrofe 1, verso 4]"
+      ],
+      [
+        "[Autopsicografia — estrofe 2, verso 1]",
+        "[Autopsicografia — estrofe 2, verso 2]",
+        "[Autopsicografia — estrofe 2, verso 3]",
+        "[Autopsicografia — estrofe 2, verso 4]"
+      ],
+      [
+        "[Autopsicografia — estrofe 3, verso 1]",
+        "[Autopsicografia — estrofe 3, verso 2]",
+        "[Autopsicografia — estrofe 3, verso 3]",
+        "[Autopsicografia — estrofe 3, verso 4]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "ironia",
+      "inquietação"
+    ],
+    "temas": [
+      "poesia",
+      "fingimento"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "alvaro-de-campos-tabacaria",
+    "titulo": "Tabacaria",
+    "autor": "Álvaro de Campos",
+    "anoMorteAutor": 1935,
+    "ano": 1933,
+    "estrofes": [
+      [
+        "[Tabacaria — estrofe 1, verso 1]",
+        "[Tabacaria — estrofe 1, verso 2]",
+        "[Tabacaria — estrofe 1, verso 3]",
+        "[Tabacaria — estrofe 1, verso 4]"
+      ],
+      [
+        "[Tabacaria — estrofe 2, verso 1]",
+        "[Tabacaria — estrofe 2, verso 2]",
+        "[Tabacaria — estrofe 2, verso 3]",
+        "[Tabacaria — estrofe 2, verso 4]",
+        "[Tabacaria — estrofe 2, verso 5]",
+        "[Tabacaria — estrofe 2, verso 6]",
+        "[Tabacaria — estrofe 2, verso 7]",
+        "[Tabacaria — estrofe 2, verso 8]",
+        "[Tabacaria — estrofe 2, verso 9]",
+        "[Tabacaria — estrofe 2, verso 10]"
+      ],
+      [
+        "[Tabacaria — estrofe 3, verso 1]",
+        "[Tabacaria — estrofe 3, verso 2]",
+        "[Tabacaria — estrofe 3, verso 3]",
+        "[Tabacaria — estrofe 3, verso 4]",
+        "[Tabacaria — estrofe 3, verso 5]",
+        "[Tabacaria — estrofe 3, verso 6]",
+        "[Tabacaria — estrofe 3, verso 7]",
+        "[Tabacaria — estrofe 3, verso 8]",
+        "[Tabacaria — estrofe 3, verso 9]",
+        "[Tabacaria — estrofe 3, verso 10]",
+        "[Tabacaria — estrofe 3, verso 11]",
+        "[Tabacaria — estrofe 3, verso 12]"
+      ],
+      [
+        "[Tabacaria — estrofe 4, verso 1]",
+        "[Tabacaria — estrofe 4, verso 2]",
+        "[Tabacaria — estrofe 4, verso 3]",
+        "[Tabacaria — estrofe 4, verso 4]",
+        "[Tabacaria — estrofe 4, verso 5]",
+        "[Tabacaria — estrofe 4, verso 6]",
+        "[Tabacaria — estrofe 4, verso 7]",
+        "[Tabacaria — estrofe 4, verso 8]",
+        "[Tabacaria — estrofe 4, verso 9]",
+        "[Tabacaria — estrofe 4, verso 10]"
+      ],
+      [
+        "[Tabacaria — estrofe 5, verso 1]",
+        "[Tabacaria — estrofe 5, verso 2]",
+        "[Tabacaria — estrofe 5, verso 3]",
+        "[Tabacaria — estrofe 5, verso 4]",
+        "[Tabacaria — estrofe 5, verso 5]",
+        "[Tabacaria — estrofe 5, verso 6]",
+        "[Tabacaria — estrofe 5, verso 7]",
+        "[Tabacaria — estrofe 5, verso 8]",
+        "[Tabacaria — estrofe 5, verso 9]",
+        "[Tabacaria — estrofe 5, verso 10]",
+        "[Tabacaria — estrofe 5, verso 11]",
+        "[Tabacaria — estrofe 5, verso 12]"
+      ],
+      [
+        "[Tabacaria — estrofe 6, verso 1]",
+        "[Tabacaria — estrofe 6, verso 2]",
+        "[Tabacaria — estrofe 6, verso 3]",
+        "[Tabacaria — estrofe 6, verso 4]",
+        "[Tabacaria — estrofe 6, verso 5]",
+        "[Tabacaria — estrofe 6, verso 6]",
+        "[Tabacaria — estrofe 6, verso 7]",
+        "[Tabacaria — estrofe 6, verso 8]",
+        "[Tabacaria — estrofe 6, verso 9]",
+        "[Tabacaria — estrofe 6, verso 10]"
+      ],
+      [
+        "[Tabacaria — estrofe 7, verso 1]",
+        "[Tabacaria — estrofe 7, verso 2]",
+        "[Tabacaria — estrofe 7, verso 3]",
+        "[Tabacaria — estrofe 7, verso 4]",
+        "[Tabacaria — estrofe 7, verso 5]",
+        "[Tabacaria — estrofe 7, verso 6]",
+        "[Tabacaria — estrofe 7, verso 7]",
+        "[Tabacaria — estrofe 7, verso 8]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "inquietação",
+      "melancolia"
+    ],
+    "temas": [
+      "identidade",
+      "fracasso"
+    ],
+    "tamanho": "longo",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "alberto-caeiro-o-meu-olhar-e-nitido-como-um-girassol",
+    "titulo": "O meu olhar é nítido como um girassol",
+    "autor": "Alberto Caeiro",
+    "anoMorteAutor": 1935,
+    "ano": 1925,
+    "estrofes": [
+      [
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 1]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 2]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 3]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 4]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 5]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 6]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 7]",
+        "[O meu olhar é nítido como um girassol — estrofe 1, verso 8]"
+      ],
+      [
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 1]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 2]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 3]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 4]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 5]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 6]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 7]",
+        "[O meu olhar é nítido como um girassol — estrofe 2, verso 8]"
+      ],
+      [
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 1]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 2]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 3]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 4]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 5]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 6]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 7]",
+        "[O meu olhar é nítido como um girassol — estrofe 3, verso 8]"
+      ],
+      [
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 1]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 2]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 3]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 4]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 5]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 6]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 7]",
+        "[O meu olhar é nítido como um girassol — estrofe 4, verso 8]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "natureza"
+    ],
+    "temas": [
+      "olhar",
+      "simplicidade"
+    ],
+    "tamanho": "medio",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "mario-de-andrade-ode-ao-burgues",
+    "titulo": "Ode ao burguês",
+    "autor": "Mário de Andrade",
+    "anoMorteAutor": 1945,
+    "ano": 1922,
+    "estrofes": [
+      [
+        "[Ode ao burguês — estrofe 1, verso 1]",
+        "[Ode ao burguês — estrofe 1, verso 2]",
+        "[Ode ao burguês — estrofe 1, verso 3]",
+        "[Ode ao burguês — estrofe 1, verso 4]",
+        "[Ode ao burguês — estrofe 1, verso 5]",
+        "[Ode ao burguês — estrofe 1, verso 6]",
+        "[Ode ao burguês — estrofe 1, verso 7]",
+        "[Ode ao burguês — estrofe 1, verso 8]"
+      ],
+      [
+        "[Ode ao burguês — estrofe 2, verso 1]",
+        "[Ode ao burguês — estrofe 2, verso 2]",
+        "[Ode ao burguês — estrofe 2, verso 3]",
+        "[Ode ao burguês — estrofe 2, verso 4]",
+        "[Ode ao burguês — estrofe 2, verso 5]",
+        "[Ode ao burguês — estrofe 2, verso 6]",
+        "[Ode ao burguês — estrofe 2, verso 7]",
+        "[Ode ao burguês — estrofe 2, verso 8]"
+      ],
+      [
+        "[Ode ao burguês — estrofe 3, verso 1]",
+        "[Ode ao burguês — estrofe 3, verso 2]",
+        "[Ode ao burguês — estrofe 3, verso 3]",
+        "[Ode ao burguês — estrofe 3, verso 4]",
+        "[Ode ao burguês — estrofe 3, verso 5]",
+        "[Ode ao burguês — estrofe 3, verso 6]",
+        "[Ode ao burguês — estrofe 3, verso 7]",
+        "[Ode ao burguês — estrofe 3, verso 8]"
+      ],
+      [
+        "[Ode ao burguês — estrofe 4, verso 1]",
+        "[Ode ao burguês — estrofe 4, verso 2]",
+        "[Ode ao burguês — estrofe 4, verso 3]",
+        "[Ode ao burguês — estrofe 4, verso 4]",
+        "[Ode ao burguês — estrofe 4, verso 5]",
+        "[Ode ao burguês — estrofe 4, verso 6]",
+        "[Ode ao burguês — estrofe 4, verso 7]",
+        "[Ode ao burguês — estrofe 4, verso 8]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "ironia",
+      "inquietação"
+    ],
+    "temas": [
+      "burguesia",
+      "cidade"
+    ],
+    "tamanho": "medio",
+    "fonte": "",
+    "revisado": false
+  },
+  {
+    "id": "oswald-de-andrade-pronominais",
+    "titulo": "Pronominais",
+    "autor": "Oswald de Andrade",
+    "anoMorteAutor": 1954,
+    "ano": 1925,
+    "estrofes": [
+      [
+        "[Pronominais — estrofe 1, verso 1]",
+        "[Pronominais — estrofe 1, verso 2]",
+        "[Pronominais — estrofe 1, verso 3]",
+        "[Pronominais — estrofe 1, verso 4]",
+        "[Pronominais — estrofe 1, verso 5]",
+        "[Pronominais — estrofe 1, verso 6]",
+        "[Pronominais — estrofe 1, verso 7]",
+        "[Pronominais — estrofe 1, verso 8]",
+        "[Pronominais — estrofe 1, verso 9]",
+        "[Pronominais — estrofe 1, verso 10]",
+        "[Pronominais — estrofe 1, verso 11]"
+      ]
+    ],
+    "gancho": {
+      "estrofe": 0,
+      "versos": [
+        0,
+        1
+      ]
+    },
+    "climas": [
+      "ironia"
+    ],
+    "temas": [
+      "língua",
+      "fala popular"
+    ],
+    "tamanho": "curto",
+    "fonte": "",
+    "revisado": false
+  }
+]

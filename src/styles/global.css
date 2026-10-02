@@ -1,0 +1,101 @@
+:root {
+  --fundo: #0e0d12;
+  --texto: #f2ede4;
+  --texto-suave: rgba(242, 237, 228, 0.62);
+  --fonte-poema: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  --fonte-ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--fundo);
+  color: var(--texto);
+  font-family: var(--fonte-ui);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* O feed: uma coluna que rola na vertical e "encaixa" em cada poema. */
+.feed {
+  height: 100dvh;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  overscroll-behavior-y: contain;
+  scrollbar-width: none;
+}
+
+.feed::-webkit-scrollbar {
+  display: none;
+}
+
+/* Uma tela = um poema. */
+.poem-card {
+  height: 100dvh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: max(2rem, env(safe-area-inset-top)) 1.75rem max(2rem, env(safe-area-inset-bottom));
+  background: var(--degrade, var(--fundo));
+}
+
+.gancho,
+.assinatura {
+  width: min(100%, 22rem); /* a mesma coluna para gancho e autor */
+  margin-inline: auto;
+}
+
+.gancho {
+  margin-block: 0;
+  font-family: var(--fonte-poema);
+  font-size: clamp(1.75rem, 7vw, 2.25rem); /* 28 a 36 px no celular */
+  line-height: 1.3;
+  text-wrap: balance;
+  animation: surgir 300ms ease-out both;
+}
+
+.gancho p {
+  margin: 0 0 0.35em;
+}
+
+.assinatura {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 0.6em;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  color: var(--texto-suave);
+}
+
+@keyframes surgir {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+
+/* Um degradê suave por clima (o primeiro clima do poema). */
+[data-clima='melancolia'] { --degrade: linear-gradient(170deg, #161a26, #0e0d12 70%); }
+[data-clima='amor'] { --degrade: linear-gradient(170deg, #2a1218, #0e0d12 70%); }
+[data-clima='saudade'] { --degrade: linear-gradient(170deg, #1e1a2c, #0e0d12 70%); }
+[data-clima='morte e finitude'] { --degrade: linear-gradient(170deg, #1a1a1a, #08080a 70%); }
+[data-clima='natureza'] { --degrade: linear-gradient(170deg, #12241b, #0e0d12 70%); }
+[data-clima='ironia'] { --degrade: linear-gradient(170deg, #2a2210, #0e0d12 70%); }
+[data-clima='inquietação'] { --degrade: linear-gradient(170deg, #26132a, #0e0d12 70%); }
+
+@media (prefers-reduced-motion: reduce) {
+  .gancho {
+    animation: none;
+  }
+}

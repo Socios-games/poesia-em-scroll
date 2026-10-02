@@ -36,3 +36,7 @@ Os versos em `src/data/poems.json` são placeholders como `"[Título — estrofe
 1. Busque o texto original no [Wikisource em português](https://pt.wikisource.org).
 2. Substitua os versos (cada estrofe é uma lista de versos, entre colchetes). Ajuste o número de estrofes e versos se for diferente.
 3. Preencha `fonte` com o link da página, confira o `gancho` (estrofe e versos, contando a partir de 0) e marque `"revisado": true`.
+
+## Música de fundo (opcional)
+
+Coloque um arquivo `fundo.mp3` em `public/musica/`. Aí aparece "Música" no menu, desligada por padrão. Veja `public/musica/LEIA-ME.md` sobre os direitos da gravação.

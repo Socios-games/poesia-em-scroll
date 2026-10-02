@@ -40,18 +40,46 @@ body {
 
 /* Uma tela = um poema. */
 .poem-card {
+  position: relative;
   height: 100dvh;
   scroll-snap-align: start;
   scroll-snap-stop: always;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   padding: max(2rem, env(safe-area-inset-top)) 1.75rem max(2rem, env(safe-area-inset-bottom));
   background: var(--degrade, var(--fundo));
+  touch-action: manipulation; /* sem zoom no toque duplo do iPhone */
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+}
+
+/* A coluna de texto. Quando o poema está aberto, ela rola sozinha. */
+.conteudo {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: safe center;
+}
+
+.aberto .conteudo {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-block: 2.5rem;
+  scrollbar-width: none;
+  /* o texto some suavemente nas bordas, sem bater no menu e no coração */
+  mask-image: linear-gradient(transparent, #000 2.5rem, #000 calc(100% - 3.5rem), transparent);
+}
+
+.aberto .conteudo::-webkit-scrollbar {
+  display: none;
 }
 
 .gancho,
-.assinatura {
+.assinatura,
+.poema-inteiro {
   width: min(100%, 22rem); /* a mesma coluna para gancho e autor */
   margin-inline: auto;
 }
@@ -94,8 +122,240 @@ body {
 [data-clima='ironia'] { --degrade: linear-gradient(170deg, #2a2210, #0e0d12 70%); }
 [data-clima='inquietação'] { --degrade: linear-gradient(170deg, #26132a, #0e0d12 70%); }
 
+
+/* Poema inteiro (no feed e na tela de favoritos) */
+.poema-inteiro {
+  font-family: var(--fonte-poema);
+  font-size: 1.3rem;
+  line-height: 1.5;
+  animation: surgir 250ms ease-out both;
+}
+
+.poema-inteiro .titulo {
+  margin: 0 0 1.25rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.estrofe {
+  margin: 0 0 1.1em;
+}
+
+.verso {
+  display: block;
+}
+
+.verso.destaque {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.08);
+  box-shadow: -0.6rem 0 0 rgba(255, 255, 255, 0.08), 0.6rem 0 0 rgba(255, 255, 255, 0.08);
+  border-radius: 2px;
+}
+
+/* Coração de favorito, no canto inferior direito de cada poema */
+.botao-favorito {
+  position: absolute;
+  right: 1rem;
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  padding: 0.6rem;
+  border: 0;
+  background: none;
+  color: var(--texto-suave);
+  cursor: pointer;
+  transition: color 200ms, transform 200ms;
+}
+
+.botao-favorito.ativo {
+  color: #e8566c;
+}
+
+.botao-favorito:active {
+  transform: scale(0.88);
+}
+
+/* Coração grande que aparece no toque duplo */
+.coracao-animado {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: #e8566c;
+  pointer-events: none;
+}
+
+.coracao-animado svg {
+  width: 96px;
+  height: 96px;
+  animation: pulsar 700ms ease-out forwards;
+}
+
+@keyframes pulsar {
+  0% { opacity: 0; transform: scale(0.4); }
+  25% { opacity: 0.95; transform: scale(1.1); }
+  45% { transform: scale(0.95); }
+  100% { opacity: 0; transform: scale(1); }
+}
+
+/* Menu discreto no canto superior direito */
+.menu {
+  position: fixed;
+  top: max(0.75rem, env(safe-area-inset-top));
+  right: 0.75rem;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.botao-menu {
+  padding: 0.6rem;
+  border: 0;
+  background: none;
+  color: var(--texto-suave);
+  cursor: pointer;
+}
+
+.menu-itens {
+  margin-top: 0.25rem;
+  min-width: 10rem;
+  padding: 0.35rem;
+  border-radius: 12px;
+  background: rgba(30, 28, 36, 0.96);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.menu-itens button {
+  display: block;
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  border: 0;
+  border-radius: 8px;
+  background: none;
+  color: var(--texto);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.menu-itens .item-secundario {
+  color: var(--texto-suave);
+}
+
+.menu-itens button:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* Tela de favoritos, por cima do feed */
+.tela-favoritos {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  overflow-y: auto;
+  padding: max(1rem, env(safe-area-inset-top)) 1.25rem max(2rem, env(safe-area-inset-bottom));
+  background: var(--fundo);
+}
+
+.tela-topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.tela-topo h1 {
+  margin: 0;
+  font-family: var(--fonte-poema);
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.botao-texto {
+  padding: 0.5rem 0;
+  border: 0;
+  background: none;
+  color: var(--texto-suave);
+  font: inherit;
+  cursor: pointer;
+}
+
+.busca {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--texto);
+  font: inherit;
+  font-size: 1rem; /* 16px evita o zoom automático do iPhone */
+}
+
+.vazio {
+  margin-top: 3rem;
+  color: var(--texto-suave);
+  text-align: center;
+}
+
+.lista-favoritos {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lista-favoritos li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.lista-favoritos .poema-inteiro {
+  width: 100%;
+  padding: 0.5rem 0 1.5rem;
+  font-size: 1.15rem;
+}
+
+.lista-favoritos .poema-inteiro .titulo {
+  display: none;
+}
+
+.item-favorito {
+  display: flex;
+  align-items: center;
+}
+
+.item-abrir {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.9rem 0;
+  border: 0;
+  background: none;
+  color: var(--texto);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.item-titulo {
+  font-family: var(--fonte-poema);
+  font-size: 1.2rem;
+}
+
+.item-autor {
+  font-size: 0.85rem;
+  color: var(--texto-suave);
+}
+
+.item-favorito .botao-favorito {
+  position: static;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .gancho {
+  .gancho,
+  .poema-inteiro {
     animation: none;
+  }
+
+  .coracao-animado svg {
+    animation-duration: 1ms;
   }
 }
